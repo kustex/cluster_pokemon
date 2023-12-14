@@ -1,4 +1,5 @@
 # Cluster Pokemon
+
 <ol>
 In this repository you can find a jupyter notebook with some drills I had to solve during the AI/Data Science bootcamp at BeCode.org.  
 This topic was all about clustering for unsupervised ML-algorithms. 
